@@ -19,7 +19,7 @@ SAMMPy is a modular modeling code that can simply and efficiently vary model str
 ├── plotting
 │   ├── bar.py                                      # Code for generating bar plots for first-order and total effect process sensitivity indices    
 │   ├── dotty.py                                    # Code for generating scatter plots for mean vs. variance of the output difference  
-│   ├── hist.py                                     # Code for generating histograms for sampled parameter values 
+│   ├── hist.py                                     # Code for generating histograms of sampled parameter values 
 ├── util
 │   ├── results.py                                  # Code for postprocessing the sensitivity results into a dictionary
 ├── __init__.py                                     # Common script used in the regular package, in which a model class is defined

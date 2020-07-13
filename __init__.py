@@ -10,10 +10,10 @@ contribute.
 """
 
 __name__ = 'sammpy'
-__author__ = 'Jing Yang, and Ming Ye'
+__author__ = 'Jing Yang, Ming Ye'
 __version__ = "0.1.0"
-__maintainer__ = "Jing Yang"
-__email__ = "mye@fsu.edu"
+__maintainer__ = "Jing Yang, Ming Ye"
+__email__ = "jyang7@fsu.edu, mye@fsu.edu"
 
 
 class model():
